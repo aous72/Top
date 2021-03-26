@@ -5,4 +5,6 @@ This tool I developed for monitoring CPU utilization.  It is far simpler than [i
 
 The tool only shows CPU utilization.
 
-Hope you find it useful.
+The executable is ./bin/Top.app
+
+Hope you find it useful. I have not intention of developing it further.
